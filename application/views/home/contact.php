@@ -18,27 +18,27 @@
 			<table class="table">
 				<tr>
 					<td class="text-right">Alamat</td>
-					<td class="text-left">Jl Soekarno Hatta No 5 Malang</td>
+					<td class="text-left">Kantor Desa Junrejo, Kota Batu, Jawa Timur 65321</td>
 				</tr>
 				<tr>
 					<td class="text-right">Telp</td>
-					<td class="text-left">0351-443-443</td>
+					<td class="text-left">0334-444-444</td>
 				</tr>
 				<tr>
 					<td class="text-right">Email</td>
-					<td class="text-left">cs@aai.com</td>
+					<td class="text-left">junrejo.batukota.go.id</td>
 				</tr>
 				<tr>
 					<td class="text-right">Facebook</td>
-					<td class="text-left">AAI Express</td>
+					<td class="text-left">Media diskusi Pemdes</td>
 				</tr>	
 				<tr>
 					<td class="text-right">Twitter</td>
-					<td class="text-left">@aai_express</td>
+					<td class="text-left">Akun Twitter Pemdes</td>
 				</tr>
 				<tr>	
 					<td class="text-right">Instagram</td>
-					<td class="text-left">@aai_express</td>
+					<td class="text-left">Akun Instagram Pemdes</td>
 				</tr>
 			</table>
 		</div>

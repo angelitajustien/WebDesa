@@ -12,7 +12,7 @@
 				<!-- Slider Item -->
 				<div class="owl-item home_slider_item">
 					<!-- Image by https://unsplash.com/@anikindimitry -->
-					<div class="home_slider_background" style="background-image:url(images/home_slider.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(images/peta.jpg)"></div>
 
 					<div class="home_slider_content text-center">
 						<div class="home_slider_content_inner" data-animation-in="flipInX" data-animation-out="animate-out fadeOut">
