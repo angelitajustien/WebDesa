@@ -1,4 +1,4 @@
-<?php $this->load->view('template/headerHome'); ?>
+
 	<!-- Home -->
 
 	<div class="home">
@@ -138,4 +138,3 @@
 		</div>
 	</div>
 </div>
-<?php $this->load->view('template/footerHome'); ?>

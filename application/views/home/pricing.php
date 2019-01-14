@@ -1,4 +1,4 @@
-<?php $this->load->view('template/headerHome'); ?>
+<?php $this->load->view('home/headerHome'); ?>
 <br>
 <br>
 <br>
@@ -62,4 +62,4 @@
 	</div>
 </div>
 
-<?php $this->load->view('template/footerHome'); ?>
+<?php $this->load->view('home/footerHome'); ?>
